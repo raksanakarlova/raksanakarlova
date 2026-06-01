@@ -17,4 +17,6 @@
   - ⏱️ [Pomodoro Timer](https://github.com/raksanakarlova/pomodoro-timer-)
   - 📋 [Kanban Board](https://github.com/raksanakarlova/kanban-board--)
 
+ Let's connect!
+
   📍 Tbilisi · 🔗 [LinkedIn](https://linkedin.com/in/raksana-karlova-118145282)
