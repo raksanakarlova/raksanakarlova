@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Raksana 👋
 
-<!--
-**raksanakarlova/raksanakarlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Junior Frontend Developer based in Tbilisi 
 
-Here are some ideas to get you started:
+  **Commercial experience:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🔍 [Botnadzor](https://github.com/botnadzor/extension) — browser extension for detecting
+  fake accounts on VK (Chrome Web Store & Firefox Add-ons).
+  Role: Junior Frontend Developer
+  Stack: React · TypeScript · TailwindCSS · Shadcn UI · WXT
+
+  📰 [Discours](https://github.com/discours/discoursio-webapp) — open-source platform
+  for collaborative journalism. Contributed to UI component library (Storybook).
+  Stack: TypeScript · Storybook
+
+  **Pet projects:**
+  - ⏱️ [Pomodoro Timer](https://github.com/raksanakarlova/pomodoro-timer-)
+  - 📋 [Kanban Board](https://github.com/raksanakarlova/kanban-board--)
+
+  📍 Tbilisi · 🔗 [LinkedIn](https://linkedin.com/in/raksana-karlova-118145282)
