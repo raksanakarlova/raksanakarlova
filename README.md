@@ -1,13 +1,13 @@
 ## Hi, I'm Raksana 👋
 
-🌱 Junior Frontend Developer based in Tbilisi 
+🌱 Frontend Developer based in Tbilisi 
 
   **Commercial experience:**
 
   🔍 [Botnadzor](https://github.com/botnadzor/extension) — browser extension for detecting
   fake accounts on VK (Chrome Web Store & Firefox Add-ons).
-  Role: Junior Frontend Developer
-  Stack: React · TypeScript · TailwindCSS · Shadcn UI · WXT
+  Role: Frontend Developer
+  Stack: React · TypeScript · TailwindCSS · WXT
 
   📰 [Discours](https://github.com/discours/discoursio-webapp) — open-source platform
   for collaborative journalism. Contributed to UI component library (Storybook).
